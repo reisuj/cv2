@@ -21,7 +21,7 @@ h2 {
 }
 
 h3 {
-  color: black;
+  color: #09626a;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -45,6 +45,7 @@ p {
 .skills {
   background-color: #1e9aa9;
   padding-bottom: 10px;
+  padding-top: 20px;
 }
 
 .heading-color {
